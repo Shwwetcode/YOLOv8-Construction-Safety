@@ -1,6 +1,7 @@
 # Real-Time Construction Site Safety Monitoring with YOLOv8
 
 ![Project Demo GIF](demo.gif)![construction-safety](https://github.com/user-attachments/assets/d3e22618-e6fd-4b15-b4c3-6be2f30c0748)
+https://drive.google.com/file/d/1ETC04PmCLadoC4bObs_ismpbRqfcWNIU/view?usp=sharing
 
 
 ## 📖 Overview
