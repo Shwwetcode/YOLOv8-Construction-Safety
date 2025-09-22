@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+
+# Large dataset folder
+archive/
+
+# Trained models and results
+runs/
+
+# Pre-trained model weights
+*.pt
+
+# System files
+.DS_Store
